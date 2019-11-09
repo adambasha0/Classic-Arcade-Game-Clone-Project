@@ -12,9 +12,8 @@
 
 ## Instructions
 
-Classic Arcade Game Clone Project:
-Definition:
-The game consists of a player and 3 enemies crossing the road. The player has to manage getting the blue zone without colliding with enemies. 
+* Name: Classic Arcade Game Clone Project
+* Definition: the game consists of a player and 3 enemies crossing the road. The player has to manage getting the blue zone without colliding with enemies. 
 
 # Game Rules:
 * In order to move the player, the user has to use up-down-left-right keyboard keys to move the player in the game up-down-left-right, respectively. 
