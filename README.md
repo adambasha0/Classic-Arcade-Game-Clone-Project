@@ -32,8 +32,8 @@ to run the game open the `index.html` file with your favourite browser.
 
 # Contributing
 to develop the code the following websites were used:
-*[2D collision detection] (https://developer.mozilla.org/en-US/docs/Games/Techniques/2D_collision_detection)
-*[Math.random()] (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random)
+[2D collision detection] (https://developer.mozilla.org/en-US/docs/Games/Techniques/2D_collision_detection)
+[Math.random()] (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random)
 
 # About
 * "Adam Basha" is a graduate with a master degree in Science. He has passion to learn how to build and develop
